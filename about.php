@@ -49,9 +49,8 @@
         <div class="container" style="background-color:  rgb(141 145 217 / 87%);margin-top: 32px; padding-bottom: 50px;">
             <h1 style="padding: 123px 391px; padding-bottom: 25px " ><u>About The Author</u></h1>
             <center><img src="account.png" width="100" height="100" style="margin-bottom: 60px"></center>
-            <p style="background-color: skyblue ;padding:7px 44px;border:2px solid;border-color:black">Lorem ipsum dolor sit amet consectetur adipisicing elit. At ullam ipsam esse repellat nam, molestiae molestias, laudantium totam aliquam blanditiis doloribus tempora ducimus eos aspernatur earum saepe? Enim, unde quasi.
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, molestiae praesentium blanditiis, fugiat dignissimos eveniet nobis corrupti illo, suscipit ad qui similique itaque consequatur rem inventore porro! Suscipit, architecto maxime.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor eaque molestias, consectetur quo deserunt neque beatae tempora enim? Exercitationem ex sequi ratione! Explicabo fugit dignissimos adipisci corrupti asperiores nobis deleniti!</p>
+            <p style="background-color: skyblue ;padding:7px 44px;border:2px solid;border-color:black">Hi, I am Sakshi Verma of National Institute of Technology Sikkim, this is my first project on Web development. I have continuously worked to create a project on ToDos List. On doing this project I have incorporated nearly 8 pages into a single linked webpage. I had assigned different weeks for diversifying my workflow for different tasks. The main programming languages used are HTML, CSS, PHP. A wide variety of bootstrap mockups were also used for the project. I have put much effort in this project.
+<br><br>Hope, you all enjoy this.</p>
             
         </div>
     <!-- Optional JavaScript -->
