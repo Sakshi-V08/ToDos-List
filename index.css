@@ -1,0 +1,40 @@
+#navbarNav{
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  margin-right: 1%;
+}
+.navbar-brand{
+  padding-left: 3%;
+}
+.navbar h3{
+  color: rgb(236, 230, 230);
+  padding-left: 2ch;
+}
+#text
+{
+  padding: 166px 79px 0px;
+}
+.work h2
+{
+  font-size: xxx-large;
+  font-weight: 700;
+}
+#text h3{
+  font-size: 2.5ch;
+  color: rgb(15, 15, 17);
+}
+
+.btn
+{
+  background-color: rgb(207, 176, 236);
+  border-radius: 2ch;
+  padding: 1ch 2ch;
+  margin: 3ch 18ch;
+  cursor: pointer;
+  border-width: 1ch;
+  
+}
+p.text{
+  padding: 0px 96px;
+}
