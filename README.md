@@ -33,13 +33,13 @@ Moreover, you also have the option to sort your tasks as per the deadline (more 
  ## Screenshots
  | Welcome Page         |                  Sign Up |
  |---|---|
- | ![ToDos List](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/9b301e5d-a4af-4faf-93ea-07ef4a0b6dd6)|![SignUp](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/cae32719-e32e-45a2-900f-af1ff824737b)|
+ | ![ToDos List](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/9b301e5d-a4af-4faf-93ea-07ef4a0b6dd6)|![SignUp](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/dbd7faf5-4dd1-415c-bbb8-5e8cedbb1c8b)|
  | Login                |               ToDos List |
  |   |   |
- |![Login](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/1d69e8e5-a9bd-4389-941d-deb824903f25)|![ToDos List (1)](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/85cb20dd-5d5e-49b0-9005-9498a2b5ee61)|
+ |![Login](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/116a23bd-d7bb-4884-95e4-b359f8841a58)|![ToDos List (1)](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/c21aa2a4-1d22-439c-9f6e-118666d748ba)|
  | Contact Us           |                 About Us |
  |   |   |
- |![Contact](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/0eabc062-7085-4d6b-add9-b2e4c2776017)|![About](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/9bbf01c9-725d-4609-9905-8ad9e94ed0d4)|
+ |![Contact](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/60d7ceb2-bb8b-4c19-9988-e795553a7263)|![About](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/bbaa366f-61b1-48c5-8f29-4bb3f8816b10)|
 ## Summary
   This to-do list website will be of great help to those who are new to web development, as it covers most of the basic aspects of web-development. More features can still be added to this website, and therefore, there is a lot of improvisation needed.
 ## Authors
