@@ -33,7 +33,7 @@ Moreover, you also have the option to sort your tasks as per the deadline (more 
  ## Screenshots
  | Welcome Page         |                  Sign Up |
  |---|---|
- | ![ToDos List](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/735bfabd-8cb3-4469-96e4-96e840e2051d)|![SignUp](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/cae32719-e32e-45a2-900f-af1ff824737b)|
+ | ![ToDos List](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/9b301e5d-a4af-4faf-93ea-07ef4a0b6dd6)|![SignUp](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/cae32719-e32e-45a2-900f-af1ff824737b)|
  | Login                |               ToDos List |
  |   |   |
  |![Login](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/1d69e8e5-a9bd-4389-941d-deb824903f25)|![ToDos List (1)](https://github.com/Sakshi-V08/ToDos-List/assets/122119205/85cb20dd-5d5e-49b0-9005-9498a2b5ee61)|
